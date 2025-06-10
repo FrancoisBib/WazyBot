@@ -79,11 +79,7 @@ wazybot-saas-platform/
 
 - **Documentation:** Consultez les guides dans `/docs/`
 - **Issues:** Créez une issue sur GitHub
-- **Email:** support@wazybot.com
-
-## 📄 Licence
-
-MIT License - voir le fichier LICENSE pour plus de détails.
+- **Email:** wazylabs@gmail.com
 
 ---
 
