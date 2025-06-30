@@ -27,7 +27,7 @@ Suivez ces guides dans l'ordre :
 ```bash
 # 1. Cloner le projet
 git clone https://github.com/FrancoisBib/WazyBot.git
-cd wazybot-saas-platform
+cd WazyBot
 
 # 2. Installer les dépendances
 npm install
