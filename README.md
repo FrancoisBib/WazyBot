@@ -26,7 +26,7 @@ Suivez ces guides dans l'ordre :
 
 ```bash
 # 1. Cloner le projet
-git clone <your-repo-url>
+git clone https://github.com/FrancoisBib/WazyBot.git
 cd wazybot-saas-platform
 
 # 2. Installer les dépendances
